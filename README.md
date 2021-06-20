@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on football analytics (aka soccer in the US of A)
 - 📫 How to reach me? You can email me at saraiyash@tamu.edu or search for @saraiyash on any of the social media platforms.
 
-![](https://hit.yhype.me/github/profile?user_id=56663509)
 
 <!---
 saraiyash/saraiyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://hit.yhype.me/github/profile?user_id=56663509)
