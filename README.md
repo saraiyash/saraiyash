@@ -11,4 +11,4 @@ saraiyash/saraiyash is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Views](https://hit.yhype.me/github/profile?user_id=56663509)
+[Views](https://hit.yhype.me/github/profile?user_id=56663509)
