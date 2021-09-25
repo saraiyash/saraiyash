@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, R, SAS, SQL, Tableau, and more data analytics tools.
 - :soccer: My dream job(s) are: Director of Football at Man Utd (long term), Data Scientist at Man Utd (short term). 
 - 💞️ I’m looking to collaborate on football analytics (aka soccer in the US of A)
-- 📫 How to reach me? You can email me at saraiyash@tamu.edu or search for @saraiyash on any of the social media platforms.
+- 📫 How to reach me? You can email me at saraiyash@tamu.edu.
 
 
 <!---
